@@ -2,7 +2,7 @@
 SSDP is used as the discovery protocol for Universal Plug and Play (UPnP).
 
 ### Use Case:
-* Discover all Sonos (UPnP) speakers on the network
+* Discover all Sonos (UPnP) speakers on the current WiFi network
 
 ### How:
 * Send M-SEARCH request via Multicast UDP
