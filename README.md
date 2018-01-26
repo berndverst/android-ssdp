@@ -6,7 +6,7 @@ SSDP is used as the discovery protocol for Universal Plug and Play (UPnP).
 
 ### How:
 * Send M-SEARCH request via Multicast UDP
-* Receive Unicast UDP response from compatile devices
+* Receive Unicast UDP response from compatible devices
 
 ### References:
 * https://tools.ietf.org/html/draft-cai-ssdp-v1-03#section-2.2.1
